@@ -1,6 +1,6 @@
 # 📊 Walmart Stock Data Analysis Using Python
 
-This [dataset](https://www.kaggle.com/datasets/abdmental01/wmt-stock-data-insights-and-trends)  project involves analyzing historical stock data for **Walmart Inc. (WMT)** using Python. The goal is to clean and explore the dataset, engineer useful features, and extract insights through clear visualizations.
+This project involves analyzing historical stock [dataset](https://www.kaggle.com/datasets/abdmental01/wmt-stock-data-insights-and-trends) for **Walmart Inc. (WMT)** using Python. The goal is to clean and explore the dataset, engineer useful features, and extract insights through clear visualizations.
 
 ----------
 
